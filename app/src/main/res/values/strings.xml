@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MAD</string>
+    <string name="shannon">shannon</string>
+    <string name="tv_poll">tv show name</string>
+    <string name="tv_des">example description</string>
+    <string name="radio_b">select choice</string>
+    <string name="p_name">username</string>
+    <string name="p_email">example@sliit.lk</string>
+    <string name="p_gender">male</string>
+    <string name="p_password" />
+    <string name="R_user">example name</string>
+    <string name="r_com">example comment</string>
+    <string name="b_name">book name</string>
+    <string name="b_desc">example description</string>
+    <string name="m_desc">example description</string>
+    <string name="m_name">movie name</string>
+    <string name="updatebutton">update</string>
+    <string name="profileavatar">profile_avatar</string>
+    <string name="addr">add your review</string>
+    <string name="moviewreviewbutton">confirm</string>
+</resources>
