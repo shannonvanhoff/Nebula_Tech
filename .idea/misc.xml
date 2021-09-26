@@ -7,12 +7,15 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/activity_movie.xml" value="0.22" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/activity_moviepoll.xml" value="0.17" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/activity_newmovie.xml" value="0.14140625" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/activity_poll.xml" value="0.18" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/activity_profileview.xml" value="0.18" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/activity_tvshow.xml" value="0.22" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/activity_tvshowpoll.xml" value="0.18" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/activity_update.xml" value="0.2" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/activity_updatenew.xml" value="0.153125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/cardview.xml" value="0.18" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MAD/app/src/main/res/layout/newmovie.xml" value="0.153125" />
       </map>
     </option>
   </component>

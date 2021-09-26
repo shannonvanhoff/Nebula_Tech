@@ -18,4 +18,7 @@
     <string name="profileavatar">profile_avatar</string>
     <string name="addr">add your review</string>
     <string name="moviewreviewbutton">confirm</string>
+    <string name="movierb">confirm</string>
+    <string name="musername">review:</string>
+    <string name="mreview">nice</string>
 </resources>
